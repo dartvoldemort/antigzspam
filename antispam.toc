@@ -1,6 +1,0 @@
-## Interface: 11200
-## Title: antigzspam
-## Author: Shagu
-## Notes: removes annoying messages
-## Version: 1.0
-antigzspam.lua
